@@ -42,7 +42,6 @@ public class StudentServices {
 	
 	 
     public void deleteStudent (	 Student s) {
-//		s.setId(2);
 	this.students.remove(s);
 	}	
 	
